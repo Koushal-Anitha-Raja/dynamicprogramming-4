@@ -1,3 +1,5 @@
+#Time_Complexity: O(m*n)
+#Space_Complexity: O(1)
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
         # previous row with 1 to the length of n
